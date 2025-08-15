@@ -184,4 +184,5 @@ docker pull <image-name>
 ```
 
 ## Screenshots
-https://github.com/abhinaz/docker-demo-project/blob/eb48ca52697c684246777db9132d1f1834ae8239/Screenshot%202025-08-16%20014111.png
+![App Screenshot](https://github.com/abhinaz/docker-demo-project/blob/eb48ca52697c684246777db9132d1f1834ae8239/Screenshot%202025-08-16%20014111.png)
+
