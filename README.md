@@ -180,21 +180,8 @@ docker images
 docker rmi todo-app
 
 # Pull an image from registry
-docker pull <image-name>```
+docker pull <image-name>
+```
 
 ## Screenshots
 https://github.com/abhinaz/docker-demo-project/blob/main/Screenshot%202025-08-16%20014111.png?raw=true
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
